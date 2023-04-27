@@ -6,7 +6,7 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
 
 |No|Name|Resource|Status|
 |--|----|--------|------|
-|1.|Docker|[Docker Lessons and Materials](https://github.com/abbos0123/DevOps/tree/main/Docker)|:hourglass:|
-|2.|Kubernetes|[Kubernetes Tutorial and Materials](https://github.com/abbos0123/DevOps/tree/main/Kubernetes)|:hourglass:|
+|1.|Docker|[Docker Lessons and Materials](https://github.com/abbos0123/DevOps/tree/main/Docker)|:book:|
+|2.|Kubernetes|[Kubernetes Tutorial and Materials](https://github.com/abbos0123/DevOps/tree/main/Kubernetes)|:book:|
 |3.|Git|[Git Tutorial and Materials](https://github.com/abbos0123/DevOps/tree/main/Git)|:hourglass:|
 |4.|Maven|[Maven Tutorial and Materials](https://github.com/abbos0123/DevOps/tree/main/Maven)|:hourglass:|
